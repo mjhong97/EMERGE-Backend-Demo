@@ -18,14 +18,19 @@ EMERGE [Evidence-based Measures of Empowerment for Research on Gender Equality] 
 
 This site serves as a culmination of EMERGE research efforts. Information regarding the extracted and assessed measures can be found under Measurement. All measures have been grouped along 9 core dimensions: Psychological, Social, Economic, Legal, Political, Health, Household and Intrafamilial Relations, Environment and Sustainability, and Time-Poverty.
 
-    
 ### Added
 
 #### Data Entry System
+![alt text](https://cdn.discordapp.com/attachments/495373196430671875/719707249156554782/unknown.png)
+
+Emerge will be introducing a new, streamlined data entry system. The new system will allow users to upload measures of their own which are then validated by a QC team at Emerge before being uploaded to the site.
 
 #### Advanced Search
+![alt text](https://cdn.discordapp.com/attachments/495373196430671875/7197072491565542222782/unknown.png)
 
-#### Analytics Dashboard
+The new database infrastructure allows new advanced search features. Users will now be able to look for measures by not only its categories, but by various tags, similarities, feature values, and boolean queries.
 
-### Changse
+
+### Changes
 #### Database Migration
+
