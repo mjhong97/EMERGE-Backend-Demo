@@ -30,7 +30,7 @@ Emerge will be introducing a new, streamlined data entry system. The new system 
 
 
 #### Advanced Search
-![alt text](https://cdn.discordapp.com/attachments/495373196430671875/7197072491565542222782/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/495373196430671875/719710574119747604/unknown.png)
 
 
 The new database infrastructure allows new advanced search features. Users will now be able to look for measures by not only its categories, but by various tags, similarities, feature values, and boolean queries.
